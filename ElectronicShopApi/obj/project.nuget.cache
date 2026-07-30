@@ -1,0 +1,111 @@
+{
+  "version": 2,
+  "dgSpecHash": "USpGWDI+GV8=",
+  "success": true,
+  "projectFilePath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+  "expectedPackageFiles": [
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.codeanalysis.csharp.workspaces\\4.5.0\\microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.codeanalysis.workspaces.common\\4.5.0\\microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.design\\8.0.0\\microsoft.entityframeworkcore.design.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.abstractions\\8.19.1\\microsoft.identitymodel.abstractions.8.19.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.jsonwebtokens\\8.19.1\\microsoft.identitymodel.jsonwebtokens.8.19.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.logging\\8.19.1\\microsoft.identitymodel.logging.8.19.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.protocols\\7.0.3\\microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.protocols.openidconnect\\7.0.3\\microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.identitymodel.tokens\\8.19.1\\microsoft.identitymodel.tokens.8.19.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition.hosting\\6.0.0\\system.composition.hosting.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.identitymodel.tokens.jwt\\8.19.1\\system.identitymodel.tokens.jwt.8.19.1.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.runtime.caching\\6.0.0\\system.runtime.caching.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "D:\\flutter_cache\\temp\\cursor-sandbox-cache\\f24abc193ed441521a661d53ae45e41a\\nuget\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Azure.Identity' 1.7.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-5mfx-4wcx-rv27",
+      "projectPath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "projectPath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Azure.Identity' 1.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "projectPath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.Data.SqlClient' 5.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "projectPath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\data srour\\Desktop\\Shop\\ElectronicShopApi\\ElectronicShopApi.csproj",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
